@@ -16,7 +16,7 @@ if (!$conn) {
 }
 
 $sql = "SELECT * FROM demo";
-echo $sql;
+
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
