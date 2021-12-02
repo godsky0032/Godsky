@@ -5,6 +5,7 @@
     <div class="col-sm-12">
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
+      <h1>godsky 0032</h1>
       <img src="picture/2.gif" alt="" style="width: 1000px;">
       <hr class="d-sm-none">
     </div>
